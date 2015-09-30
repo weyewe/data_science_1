@@ -5,7 +5,7 @@
 	prefix="og: http://ogp.me/ns#" >
 <head>
 	<meta charset="utf-8">
-	<title>Voonik turns shoppers into fashionistas, and it just raised funding</title>
+	<title>5 Tips for founders from Asia’s 2 Top VCs</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="HandheldFriendly" content="True">
@@ -14,13 +14,13 @@
 	<meta property="fb:admins" content="813110073">
 	<meta name="twitter:widgets:csp" content="on">
 					<meta name="twitter:card" value="summary">
-		<meta name="twitter:url" value="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/">
-		<meta name="twitter:title" value="Voonik turns shoppers into fashionistas, and it just raised funding">
-		<meta name="twitter:description" value="Voonik is a personal shopping assistant that suggests clothes, accessories, and footwear based on user’s body, skin tone, lifestyle, and budget.">
-		<meta name="twitter:image" value="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/voonik.png">
+		<meta name="twitter:url" value="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/">
+		<meta name="twitter:title" value="5 Tips for founders from two Asian VC&#8217;s">
+		<meta name="twitter:description" value="">
+		<meta name="twitter:image" value="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/GGV-eastventures-tips-vcs.jpg">
 		<meta name="twitter:site" value="@Techinasia">
-					<meta name="twitter:creator" value="@https://twitter.com/nikitapeer">
-						<meta name="apple-itunes-app" content="app-id=954807043, affiliate-data=myAffiliateData, app-argument=techinasia://posts/251726">
+					<meta name="twitter:creator" value="@https://twitter.com/battlechoon">
+						<meta name="apple-itunes-app" content="app-id=954807043, affiliate-data=myAffiliateData, app-argument=techinasia://posts/272798">
 		<link rel="shortcut icon" href="https://dx0820ezj6x23.cloudfront.net/wp-content/themes/techinasia/img/favicon/favicon.ico">
 	<link rel="apple-touch-icon" sizes="57x57" href="https://dx0820ezj6x23.cloudfront.net/wp-content/themes/techinasia/img/favicon/apple-touch-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="https://dx0820ezj6x23.cloudfront.net/wp-content/themes/techinasia/img/favicon/apple-touch-icon-60x60.png">
@@ -47,28 +47,27 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
 	<script type="text/javascript">
-		var site_url = "https://www.techinasia.com", cdn_url = "https://dx0820ezj6x23.cloudfront.net", ajax_url = "https://www.techinasia.com/core/wp-admin/admin-ajax.php", is_logged_in = 0, registered_date = null, facebook_app_id = "206930646126140", login_nonce = "ab56cf33d8";
+		var site_url = "https://www.techinasia.com", cdn_url = "https://dx0820ezj6x23.cloudfront.net", ajax_url = "https://www.techinasia.com/core/wp-admin/admin-ajax.php", is_logged_in = 0, registered_date = null, facebook_app_id = "206930646126140", login_nonce = "385fa7e5c5";
 		var google = {"clientid":"309256698528-nk2hv7evmtin25snab5lq3ad5hipf62k.apps.googleusercontent.com"};
 	</script>
 	
 <!-- All in One SEO Pack 2.2.7.2 by Michael Torbert of Semper Fi Web Design[-1,-1] -->
-<meta name="description" itemprop="description" content="Voonik is a personal shopping assistant that suggests clothes, accessories, and footwear based on user’s body, skin tone, lifestyle, and budget." />
+<meta name="description" itemprop="description" content="Digging deeper into the investment philosophies of Golden Gate Ventures and East Ventures." />
 
-<link rel="canonical" href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/" />
-<meta property="og:title" content="Voonik turns shoppers into fashionistas, and it just raised funding" />
+<link rel="canonical" href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/" />
+<meta property="og:title" content="5 Tips for founders from two Asian VC&#8217;s" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/" />
-<meta property="og:image" content="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/voonik-720x358.png" />
+<meta property="og:url" content="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/" />
+<meta property="og:image" content="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/GGV-eastventures-tips-vcs-720x300.jpg" />
 <meta property="og:site_name" content="Tech in Asia" />
-<meta property="og:description" content="Voonik is a personal shopping assistant that suggests clothes, accessories, and footwear based on user’s body, skin tone, lifestyle, and budget." />
-<meta property="article:author" content="https://www.facebook.com/nikita.peer" />
-<meta property="article:published_time" content="2015-06-10T15:09:49Z" />
-<meta property="article:modified_time" content="2015-06-10T15:36:32Z" />
+<meta property="og:description" content="Digging deeper into the investment philosophies of Golden Gate Ventures and East Ventures." />
+<meta property="article:published_time" content="2015-09-30T14:00:20Z" />
+<meta property="article:modified_time" content="2015-09-29T12:49:53Z" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Voonik is a personal shopping assistant that suggests clothes, accessories, and footwear based on user’s body, skin tone, lifestyle, and budget." />
-<meta itemprop="image" content="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/voonik-720x358.png" />
+<meta name="twitter:description" content="Digging deeper into the investment philosophies of Golden Gate Ventures and East Ventures." />
+<meta itemprop="image" content="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/GGV-eastventures-tips-vcs-720x300.jpg" />
 <!-- /all in one seo pack -->
-<link rel="alternate" type="application/rss+xml" title="Tech in Asia &raquo; Voonik turns shoppers into fashionistas, and it just raised funding Comments Feed" href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tech in Asia &raquo; 5 Tips for founders from two Asian VC&#8217;s Comments Feed" href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/dx0820ezj6x23.cloudfront.net\/core\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -93,14 +92,14 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.techinasia.com/core/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.techinasia.com/core/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.3.1" />
-<link rel='shortlink' href='https://www.techinasia.com/?p=251726' />
+<link rel='shortlink' href='https://www.techinasia.com/?p=272798' />
 <link rel='https://github.com/WP-API/WP-API' href='https://www.techinasia.com/wp-json' />
 
 <link rel='dns-prefetch' href='//i0.wp.com'>
 <link rel='dns-prefetch' href='//i1.wp.com'>
 <link rel='dns-prefetch' href='//i2.wp.com'>
 <style type='text/css'>img#wpstats{display:none}</style></head>
-<body class="single single-post postid-251726 single-format-standard">
+<body class="single single-talk postid-272798 single-format-standard">
 <div class="modal tia-modal fade" id="login-modal" tabindex="-1" role="dialog">
 	<div class="modal-dialog" role="document">
 		<div class="modal-content">
@@ -126,8 +125,8 @@ img.emoji {
 	</div>
 </div>
 <div class="strike"><span>OR</span></div>
-<form class="form-horizontal" role="form" action="/india-voonik-personal-shopping-app-funding/" method="post">
-	<input type="hidden" id="insights_login_nonce" name="insights_login_nonce" value="1a243b2c8b" /><input type="hidden" name="_wp_http_referer" value="/india-voonik-personal-shopping-app-funding/" />	<input type="hidden" name="redirect" value="/india-voonik-personal-shopping-app-funding/">
+<form class="form-horizontal" role="form" action="/talk/5-tips-founders-asian-vcs/" method="post">
+	<input type="hidden" id="insights_login_nonce" name="insights_login_nonce" value="37a37a2cf9" /><input type="hidden" name="_wp_http_referer" value="/talk/5-tips-founders-asian-vcs/" />	<input type="hidden" name="redirect" value="/talk/5-tips-founders-asian-vcs/">
 	<div class="form-group">
 		<div class="col-sm-12">
 			<input type="text" name="email" id="email" class="form-control" placeholder="Email" value="">
@@ -170,7 +169,7 @@ img.emoji {
 </div>
 <div class="strike"><span>OR</span></div>
 <form class="form-horizontal" role="form" action="/register" method="post">
-	<input type="hidden" id="insights_register_nonce" name="insights_register_nonce" value="0cf6a681ad" /><input type="hidden" name="_wp_http_referer" value="/india-voonik-personal-shopping-app-funding/" />	<input type="hidden" name="register_redirect" value="/india-voonik-personal-shopping-app-funding/">
+	<input type="hidden" id="insights_register_nonce" name="insights_register_nonce" value="315298b7c3" /><input type="hidden" name="_wp_http_referer" value="/talk/5-tips-founders-asian-vcs/" />	<input type="hidden" name="register_redirect" value="/talk/5-tips-founders-asian-vcs/">
 	<div class="form-group">
 		<div class="col-sm-12">
 			<input type="text" name="register_first_name" id="first-name" class="form-control" placeholder="First Name" value="">
@@ -241,8 +240,8 @@ img.emoji {
 		</div>
 	</div>
 	<div class="header-menu">
-					<a class="btn btn-xs" href="https://www.techinasia.com/register?redirect=%2Findia-voonik-personal-shopping-app-funding%2F">Join<span class="mobile-hide"> Now</span></a>
-			<a class="btn btn-xs" href="https://www.techinasia.com/login?redirect=%2Findia-voonik-personal-shopping-app-funding%2F">Sign In</a>
+					<a class="btn btn-xs" href="https://www.techinasia.com/register?redirect=%2Ftalk%2F5-tips-founders-asian-vcs%2F">Join<span class="mobile-hide"> Now</span></a>
+			<a class="btn btn-xs" href="https://www.techinasia.com/login?redirect=%2Ftalk%2F5-tips-founders-asian-vcs%2F">Sign In</a>
 			</div>
 </header>
 <!--header end-->
@@ -485,57 +484,82 @@ img.emoji {
 					<div class="hellobar">
 													<div class="hellobar-live">ANNOUNCEMENT</div>
 																			<div class="hellobar-title">
-								<a href="https://itunes.apple.com/us/app/tech-in-asia/id954807043?ls=1&#038;mt=8&#038;utm_source=hello%20bar&#038;utm_medium=web&#038;utm_campaign=iOS%20app">Download the newly improved TIA iOS app!&nbsp;&raquo;</a>
+								<a href="https://itunes.apple.com/us/app/tech-in-asia/id954807043?ls=1&#038;mt=8">Download the newly improved TIA iOS app!&nbsp;&raquo;</a>
 							</div>
 											</div>
 				</div>
 			</div>
 		</div>
-										<article id="post-251726" class="post-251726 post type-post status-publish format-standard has-post-thumbnail hentry category-e-commerce-social-commerce category-investments category-news category-startups tag-ecommerce tag-fashion tag-funding tag-india tag-investment tag-seedfund tag-sequoia-capital tag-start-up tag-startups-in-india tag-voonik post-single">
+										<article id="post-272798" class="post-272798 talk type-talk status-publish format-standard has-post-thumbnail hentry category-investments category-tips tag-east-ventures tag-golden-gate-ventures tag-tips tag-venture-capital post post-single">
 			<div class="post-meta">
-			<ul class="list-inline post-categories"><li><a href="https://www.techinasia.com/category/e-commerce-social-commerce/" title="View all posts in Ecommerce" rel="category">Ecommerce</a></li><li><a href="https://www.techinasia.com/category/investments/" title="View all posts in Investments" rel="category">Investments</a></li><li><a href="https://www.techinasia.com/category/news/" title="View all posts in News" rel="category">News</a></li><li><a href="https://www.techinasia.com/category/startups/" title="View all posts in Startups" rel="category">Startups</a></li></ul>				<div class="media">
-					<a class="post-author-avatar pull-left" href="https://www.techinasia.com/author/nikita-peer/" rel="nofollow">
-						<img class="media-object" src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/authors/Nikita Peer-385.jpeg" alt="Nikita Peer" class="random-background">
+			<ul class="list-inline post-categories"><li><a href="https://www.techinasia.com/category/investments/" title="View all posts in Investments" rel="category">Investments</a></li><li><a href="https://www.techinasia.com/category/tips/" title="View all posts in Tips" rel="category">Tips</a></li></ul>				<div class="media">
+					<a class="post-author-avatar pull-left" href="https://www.techinasia.com/author/cyonline/" rel="nofollow">
+						<img class="media-object" src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/authors/20701.jpg?v=1443622088" alt="Choon Yan Tan" class="random-background">
 					</a>
 					<div class="media-body">
-						<i class="author-icon author-staff" title="Staff"></i><a href=" https://www.techinasia.com/author/nikita-peer/" title="Nikita Peer" rel="nofollow">Nikita Peer</a><br />3:09 pm on Jun 10, 2015					</div>
+						<a href=" https://www.techinasia.com/author/cyonline/" title="Choon Yan Tan" rel="nofollow">Choon Yan Tan</a><br />2:00 pm on Sep 30, 2015					</div>
 				</div>
 			</div>
 
 			<h1 class="post-heading">
-				Voonik turns shoppers into fashionistas, and it just raised funding			</h1>
+				5 Tips for founders from two Asian VC&#8217;s			</h1>
 
 			<div class="post-subheading row">
-				<a href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/#comments" class="post-comments-count">
+				<a href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/#comments" class="post-comments-count">
 					<i class="fa fa-comment fa-fw"></i>&nbsp;
-					0 Comments				</a>
+					5 Comments				</a>
 				<div class="addthis_sharing_toolbox pull-right"></div>
 			</div>
 
-										
+							<div class="community-message hidden-xs hidden-sm">
+										<p><strong>About author:</strong> CY leads Braintree_PayPal startup, accelerator and incubator activities across APAC. CY is also a mentor in various major accelerators such as ONL, MaGIC and SBC and a speaker at startup conferences.</p>
+					You can create a community post just like Choon Yan, just click <a href="https://www.techinasia.com#show_participate_form">here</a>!
+				</div>
+			
 			<div class="post-content">
-				<p><img src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/voonik.png" alt="voonik" width="1345" height="668" class="aligncenter size-full wp-image-251729" /></p>
-<p>India’s <a href="http://www.voonik.com/">Voonik</a>, a fashion estore, today announced that it raised US$5 million in series A funding from Sequoia Capital and existing investor Seedfund. The company had earlier raised US$400,000 in seed funding.</p>
-<p>Voonik also serves as a personal shopping assistant, suggesting clothes, accessories, and footwear based on a user’s body shape, skin tone, lifestyle, budget, and preferences. People can shop and mix and match from styles and products across other ecommerce sites like Jabong, Fashionara, and Zovi. This allows shoppers to get personalized recommendations from across estores in a single app.</p>
-<p>Sequoia Capital’s managing director Shailendra Singh feels that this discovery of apparel from dozens of other ecommerce sites could result in terrific user engagement, retention, and growth. The fresh funds will be used to further enhance its personalisation and style recommendation technology.</p>
-<p>“While ecommerce portals have been extremely popular, mcommerce is increasingly becoming the de facto mode for making transactions in India,” says Sujayath Ali, CEO and co-founder of Voonik, in a statement this morning. “To add, smartphones are getting cheaper and connectivity is getting better which also makes mobile the future of commerce. With this funding, we will be focusing on innovations that would enhance our mobile platform.”</p>
-<h3>Free personal stylist</h3>
-<p><img src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/voonik2-236x400.png" alt="voonik2" width="236" height="400" class="alignright size-medium wp-image-251736" /></p>
-<p>The idea struck Ali when he was very dissatisfied with the online clothes buying experience. Offline, he tried using premium brands and followed several Bollywood and Hollywood celebrities’ styles, but nothing worked. So he quit his job at Amazon as senior product manager and decided to develop an online fashion expert to help users buy the best clothes.</p>
-<p>“If I don’t need to be an electronics expert to buy the best gadget at Amazon, why should I be a fashion expert to buy the best clothes. We want to bridge the gap between a fashion expert and a common man by providing a free-of-cost online personal stylist,” Ali tells <em>Tech in Asia</em>.</p>
-<p>So if someone is looking to buy a top and their style preference is conservative, their body shape is round, skin tone is medium, and she is tall, Voonik will advise her to buy a printed knee length <a href="http://en.wikipedia.org/wiki/Kurta"><em>kurta</em></a>, with sleeves that have some sort of embellishment around the neckline in order to draw attention away from the stomach.</p>
-<p>The accessories to go along with it will be more prominent and the kurti would be teamed with <a href="http://en.wikipedia.org/wiki/Churidar"><em>chudi</em></a> bottoms for a slimmer look. In addition, the colors would be brighter to bring out the best in the buyer’s skin tone.</p>
-<p>The site has half a million products which are sourced from online fashion stores. The two-year-old startup launched its mobile app last year. It claims to serve 2,500 daily orders and is targeting US$100 million in sales transactions (GMV) in a year.</p>
+				<p><img class="aligncenter size-large wp-image-272898" src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/GGV-eastventures-tips-vcs-720x300.jpg" alt="GGV-eastventures-tips-vc's" width="720" height="300" /></p>
+<p>Golden Gate Ventures (GGV) and East Ventures (EV) are two influential VCs based out of Singapore whom entrepreneurs rely on for mentorship, talent access, and possible acquisitions through the VCs’ extensive global network.<br />
+I caught up with Jeffrey Paine, GGV Founding Partner and Willson Cuaca, EV co-founder and managing partner, on separate occasions to talk about their firms. We chatted about how they are helping the startup community.</p>
+<h2>Golden Gate Ventures (GGV)</h2>
+<p>Jeffrey recalled in 2010 when he launched Founder Institute (FI) in Singapore, the startup scene had few mentors. After getting Vinnie Lauria’s help as a mentor for FI startups in Southeast Asia, many founders continually reached out to Jeffrey and Vinnie for guidance on how to raise rounds in the US. So in 2011, Jeffrey founded GGV with Vinnie and another former entrepreneur, Paul Bragiel, to bridge the gap in seed round investment. Paul is an investor/advisor in 33 Silicon Valley companies, including Uber, and previously founded three global tech companies. GGV has since invested in over 25 companies across Asia and has raised more than USD$50 million. Their investments range from USD$100K to USD$2M in fintech, marketplace, ecommerce, and supporting services domains.</p>
+<h2>East Ventures (VC)</h2>
+<p>EV was founded by four co-founders, Willson Cuaca, Batara Eto, Taiga Matsuyama, and Chandra Tjan in 2010. Batara was Willson’s high school classmate and Taiga was connected to him as an investor in Mixi which he co-founded. Five years ago, they recognized a huge untapped potential in Indonesia, a nation of 22 million active internet users. The company quickly put up an investment fund. EV invests in anything below USD$500K, with follow-on investment rounds. They have invested mainly in ecommerce and its supporting services.</p>
+<h3>Founder Thesis</h3>
+<p>It is common for Jeffrey and Willson to receive thousands of investment proposals and recommendations each year. They pour through these and interact with numerous founders with the goal of uncovering The Next Big Thing. They have each formed their own thesis on the characteristics of founders who have the material to be moulded for greater heights.</p>
+<h3>Be Yourself</h3>
+<p>Time is precious for both entrepreneurs and VCs so the first meeting sets the tone for further interactions. “I’ll expect the founders to be themselves, tell us the founding story, show the traction,” said Willson on his expectations for first founder-investor meetings. He added, “The product doesn’t matter and many a times the startup won’t have a product in the early days. What matters most are the founder’s traits such as being honest, patient and having a vision. Don’t cheat, lie or bullshit. It’s easily discoverable if you do.”</p>
+<h3>Focus on the Tangibles</h3>
+<p>In contrast, Jeffrey focuses on the tangibles in the first meeting. “The first bar to entry will be a prototype regardless whether it’s private beta or publicly used. This shows the founding team is able to execute. My own fund research data shows that 97% of the top 35 startups in Southeast Asia are clones. Hence, execution is preferred over presentation slides and ideas on a napkin.”</p>
+<h3>Show Your Resourcefulness</h3>
+<p>Jeffrey and Willson both echoed the same sentiments towards resourceful founders. Jeffrey shared:</p>
+<blockquote><p>Founders should have an unfair advantage of a domain knowledge that the rest do not know. Either they’re from the domain or they’ve figured out the drivers, challenges, current situation and alternatives after an extensive period of study. Resourceful founders ask weird questions that people normally don’t ask to test out their hypothesis.”</p></blockquote>
+<p>Willson reiterated this view by adding:</p>
+<blockquote><p>Great founders are highly resourceful which translates into great problem solving skills. They do not come up with excuses. You can quickly see their progression as their knowledge base grows.</p></blockquote>
+<h3>Don’t Be Afraid to Fail</h3>
+<p>Willson said:</p>
+<blockquote><p>Unsuccessful founders often hide when they do not perform. They do this because they don’t recognize that they’ve failed. It’s hard to help them this way and this ties back to my initial point on founders being dishonest. A large number of founders underperform because they flip-flop on issues and become indecisive on business decisions.</p></blockquote>
+<p>Jeffrey pointed out that being unfocused is the fatal error. He shared:</p>
+<blockquote><p>
+  Founders have to be committed when starting new things and be 100% focused on it. Most people are risk-averse and try to juggle a few things at the same by doing things on the side.
+</p></blockquote>
+<h3>Think Small, Aim Big</h3>
+<p>Willson highlighted that targeting a sizable market and the founder’s ability to scale are important.</p>
+<blockquote><p>Target a single big market for dominance first before regional expansion. Multiple market launches at an early stage like Rocket Internet might not be wise due to huge upfront capital costs. Secondly, the rapid knowledge growth of founders is more important than what has been achieved in the past.</p></blockquote>
+<p>Jeffrey added:</p>
+<blockquote><p>Founders and their teams have to be detailed and adept in product metrics, marketing and distribution, and understand analytical tools.</p></blockquote>
+<p>If you are thinking of reaching out to Jeffrey, Willson and their teams to pitch your business ideas, here are some pro-tips:</p>
+<ul>
+<li>Do not be discouraged if investors think your plan needs more work. Ask for permission to continue engaging with the VC through regular investor updates.</li>
+<li>Be genuine and stick to your words.</li>
+<li>Whiskey is the favorite drink for Jeffrey and the GGV team.</li>
+</ul>
 			</div>
 			<div class="post-content">
 				<div class="post-editor">
-					<em>Editing by Steven Millward</em>
+					<em></em>
 				</div>
 			</div>
-							<div class="post-content">
-					<em>(And yes, we're serious about ethics and transparency. More information <a href="https://www.techinasia.com/statement-of-ethics/">here</a>.</em>)
-				</div>
-						<div class="row"><div class="col-md-12"><div class="post-techlist"><div class="techlist-company"><div class="panel panel-default"><div class="panel-heading"><div class="h3 techlist-name"><a href="https://www.techinasia.com/startup/voonik" target="techlist-new-window">Voonik</a></div></div><div class="panel-body"><div class="techlist-description">Every Woman's Personal Stylist (Mobile Fashion App).</div><div class="techlist-info"><div class="row"><div class="col-sm-2 col1">Location</div><div class="col-sm-4 col2">Bangalore/India</div><div class="col-sm-2 col1">Founders</div><div class="col-sm-4 col2">Sujayath Ali, Navaneetha Krishnan</div></div><div class="row"><div class="col-sm-2 col1">Website</div><div class="col-sm-4 col2"><a href="http://www.voonik.com/" rel="nofollow">Voonik</a></div><div class="col-sm-2 col1">Employees</div><div class="col-sm-4 col2">11-50</div></div><div class="row"><div class="col-sm-2 col1">Founded</div><div class="col-sm-4 col2">March 2013</div><div class="col-sm-2 col1">Latest funding</div><div class="col-sm-4 col2">$5,000,000 / Series A / Sequoia Capital, SeedFund</div></div></div></div></div></div></div></div></div>
+						
 			
 			
 <a name="comments"></a>
@@ -545,7 +569,7 @@ img.emoji {
 </div>
 
 <div id="comments" class="row">
-    <div id="post-251726-comments" class="post-comments" data-post="251726" data-comments-nonce="c671e16c8b" data-filter="popular">
+    <div id="post-272798-comments" class="post-comments" data-post="272798" data-comments-nonce="0f589ddab9" data-filter="popular">
         
 		<div id="respond" class="comment-respond">
 
@@ -556,7 +580,7 @@ img.emoji {
 		
 		</div><!-- #respond -->
 		        <div class="comment-heading-wrapper">
-            <h3 class="comment-heading">No Comments</h3>
+            <h3 class="comment-heading"><span>5</span> Comments</h3>
             <div class="comment-filter-dropdown dropdown">
                 <a data-toggle="dropdown" role="link" aria-expanded="false">
                     <span class="current-sort">
@@ -564,9 +588,9 @@ img.emoji {
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu dropdown-menu-right">
-                                            <li role="menuitem"><a href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/?comments=oldest#comments" data-filter="oldest" role="link" class="oldest ">Sort by Oldest</a></li>
-                                            <li role="menuitem"><a href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/?comments=popular#comments" data-filter="popular" role="link" class="popular checked">Sort by Best</a></li>
-                                            <li role="menuitem"><a href="https://www.techinasia.com/india-voonik-personal-shopping-app-funding/?comments=newest#comments" data-filter="newest" role="link" class="newest ">Sort by Newest</a></li>
+                                            <li role="menuitem"><a href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/?comments=oldest#comments" data-filter="oldest" role="link" class="oldest ">Sort by Oldest</a></li>
+                                            <li role="menuitem"><a href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/?comments=popular#comments" data-filter="popular" role="link" class="popular checked">Sort by Best</a></li>
+                                            <li role="menuitem"><a href="https://www.techinasia.com/talk/5-tips-founders-asian-vcs/?comments=newest#comments" data-filter="newest" role="link" class="newest ">Sort by Newest</a></li>
                                     </ul>
             </div>
         </div>
@@ -581,27 +605,27 @@ img.emoji {
     </div><!-- .post-comments -->
 </div><!-- #comments -->
 			<div class="heading-separator">Read More</div><div class="row">							<div class="col-md-4">
-								<a class="read-more-thumbnail" href="https://www.techinasia.com/artificial-intelligence-to-pick-bollywood-saree-fashion-ecommerce-india/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="Now, you can use artificial intelligence to pick a Bollywood saree">
-									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/07/visual-search-ecommerce-madstreet-den-1-720x393.png" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/07/visual-search-ecommerce-madstreet-den-1-350x191.png"/>								</a>
+								<a class="read-more-thumbnail" href="https://www.techinasia.com/talk/24-quotes-ama-stars/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="23 meaningful quotes from founders and investors on AMA">
+									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-14-at-6.01.00-pm-720x369.png" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Screen-Shot-2015-09-14-at-6.01.00-pm-350x179.png"/>								</a>
 								<p>
-									<a class="read-more-title" href="https://www.techinasia.com/artificial-intelligence-to-pick-bollywood-saree-fashion-ecommerce-india/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="Now, you can use artificial intelligence to pick a Bollywood saree">
-										Now, you can use artificial intelligence to pick a Bollywood saree									</a>
+									<a class="read-more-title" href="https://www.techinasia.com/talk/24-quotes-ama-stars/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="23 meaningful quotes from founders and investors on AMA">
+										23 meaningful quotes from founders and investors on AMA									</a>
 								</p>
 							</div>
 										<div class="col-md-4">
-								<a class="read-more-thumbnail" href="https://www.techinasia.com/asian-startup-list-14-june-2015/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="33 startups in Asia that caught our eye">
-									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/05/This-Week-in-Asian-Startups-image-thumbnail-720x308.png" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/05/This-Week-in-Asian-Startups-image-thumbnail-350x150.png"/>								</a>
+								<a class="read-more-thumbnail" href="https://www.techinasia.com/talk/venture-capital-firms-doubling-southeast-asia/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="These venture capital firms are doubling down on Southeast Asia">
+									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/07/money-comparison-halomoney-350x234.jpg" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/07/money-comparison-halomoney-350x234.jpg"/>								</a>
 								<p>
-									<a class="read-more-title" href="https://www.techinasia.com/asian-startup-list-14-june-2015/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="33 startups in Asia that caught our eye">
-										33 startups in Asia that caught our eye									</a>
+									<a class="read-more-title" href="https://www.techinasia.com/talk/venture-capital-firms-doubling-southeast-asia/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="These venture capital firms are doubling down on Southeast Asia">
+										These venture capital firms are doubling down on Southeast Asia									</a>
 								</p>
 							</div>
 										<div class="col-md-4">
-								<a class="read-more-thumbnail" href="https://www.techinasia.com/targetingmantra-amazon-startup-raised-funding/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="They personalized Amazon. Now their startup has raised $1.1M to do it for other ecommerce sites">
-									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2014/09/targetingmantra-720x322.jpg" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2014/09/targetingmantra-350x156.jpg"/>								</a>
+								<a class="read-more-thumbnail" href="https://www.techinasia.com/talk/learned-vc/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="Three things I learned at a VC">
+									<img class="img-lazy " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/08/mcduck-money-720x302.jpg" data-src-small="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/08/mcduck-money-350x147.jpg"/>								</a>
 								<p>
-									<a class="read-more-title" href="https://www.techinasia.com/targetingmantra-amazon-startup-raised-funding/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="They personalized Amazon. Now their startup has raised $1.1M to do it for other ecommerce sites">
-										They personalized Amazon. Now their startup has raised $1.1M to do it for other ecommerce sites									</a>
+									<a class="read-more-title" href="https://www.techinasia.com/talk/learned-vc/?utm_source=Read+More&utm_medium=web&utm_campaign=readmore-posts" rel="nofollow" title="Three things I learned at a VC">
+										Three things I learned at a VC									</a>
 								</p>
 							</div>
 			</div>					</article>
@@ -611,11 +635,11 @@ img.emoji {
 			<strong><i class="fa fa-arrow-circle-o-right fa-fw"></i>&nbsp;Read Next</strong>
 			<div class="media">
 				<div class="media-left">
-					<a href="https://www.techinasia.com/chinese-parents-edutech-startups-dont-waste-kids-time-unproven-methods/?utm_source=Read+Next&utm_medium=web&utm_campaign=readnext-posts" title="Chinese parents to edutech startups: don’t waste our kids’ time on unproven methods">
-						<img width="100" height="100" src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/06/china-high-school-gaokao-100x100.jpg" class="media-object wp-post-image" alt="Chinese parents to edutech startups: don’t waste our kids’ time on unproven methods" />					</a>
+					<a href="https://www.techinasia.com/talk/tech-asia-ios-app/?utm_source=Read+Next&utm_medium=web&utm_campaign=readnext-posts" title="The Tech in Asia iOS app">
+						<img width="100" height="100" src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/TIA-iOS-App-Featured-Image-100x100.png" class="media-object wp-post-image" alt="The Tech in Asia iOS app" />					</a>
 				</div>
 				<div class="media-body">
-					<a href="https://www.techinasia.com/chinese-parents-edutech-startups-dont-waste-kids-time-unproven-methods/?utm_source=Read+Next&utm_medium=web&utm_campaign=readnext-posts" title="Chinese parents to edutech startups: don’t waste our kids’ time on unproven methods">Chinese parents to edutech startups: don’t waste our kids’ time on unproven methods</a>
+					<a href="https://www.techinasia.com/talk/tech-asia-ios-app/?utm_source=Read+Next&utm_medium=web&utm_campaign=readnext-posts" title="The Tech in Asia iOS app">The Tech in Asia iOS app</a>
 				</div>
 			</div>
 		</div>
@@ -624,16 +648,7 @@ img.emoji {
 <div id="sidebar-right" class="col-md-4 visible-md-block visible-lg-block">
 	<ul class="list-unstyled">
 		<li class="visible-md-block visible-lg-block">
-			<a href="#login-modal" class="btn btn-block btn-lg btn-tia btn-post show-login-modal" data-toggle="modal"><i class="fa fa-fw fa-pencil"></i>Submit a post</a><span class="btn-post-tooltip"><span class="before"></span>Do or do not, there is no try</span>		</li>
-					<li>
-				<div class="heading-separator" style="font-size: 1.2em;">Indonesia, India &amp; Thailand News</div>
-				<div class="sidebar-post-featured">
-					<div class="text-right" style="padding: 15px; border-bottom: 1px solid #eeeeee">
-						<span style="color: #555; font-weight: 300;">POWERED BY</span>&nbsp;
-						<img src="https://dx0820ezj6x23.cloudfront.net/wp-content/themes/techinasia/img/baidu.png" style="vertical-align: baseline;" />
-					</div>
-					<a class="media post-sidebar" href="https://www.techinasia.com/baidu-plans-win-indonesia/?utm_source=sidebar-baidu-posts&utm_medium=web&utm_campaign=baidu-plans-win-indonesia" rel="nofollow" title="How Baidu plans to win Indonesia"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Bob_Jianlei2_edit-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">How Baidu plans to win Indonesia</div><div class="post-subheading">By Imran Khan</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/reddoorz-funding-budget-accomodation/?utm_source=sidebar-baidu-posts&utm_medium=web&utm_campaign=reddoorz-funding-budget-accomodation" rel="nofollow" title="He is a hotelier at heart. And his startups aim to ensure that you enjoy your stay"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2014/09/2303992129_8da8a71dd5_o-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">He is a hotelier at heart. And his startups aim to ensure that you enjoy your stay</div><div class="post-subheading">By Nikita Peer</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/?utm_source=sidebar-baidu-posts&utm_medium=web&utm_campaign=robotic-toy-cars-teach-kids-programming" rel="nofollow" title="These smart toy cars teach kids programming and robotics, and schools are snapping them up"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/cannybots-100x100.jpeg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">These smart toy cars teach kids programming and robotics, and schools are snapping them up</div><div class="post-subheading">By Malavika Velayanikal</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/india-peppertap-series-b-funding-online-grocery/?utm_source=sidebar-baidu-posts&utm_medium=web&utm_campaign=india-peppertap-series-b-funding-online-grocery" rel="nofollow" title="Investors go grocery shopping in India, 9-month-old PepperTap bags $36M series B"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/groceries-fresh-100x100.png"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">Investors go grocery shopping in India, 9-month-old PepperTap bags $36M series B</div><div class="post-subheading">By Nikita Peer</div></div></a>				</div>
-			</li>
+			<a href="#login-modal" class="btn btn-block btn-lg btn-tia btn-post show-login-modal" data-toggle="modal"><i class="fa fa-fw fa-pencil"></i>Submit a post</a><span class="btn-post-tooltip"><span class="before"></span>Meow.</span>		</li>
 					<li>
 				<div class="box text-center" style="padding: 5px 0;">
 					<div id="div-gpt-ad-1429764842487-1" style="margin: 0 auto; height:250px; width:300px;"></div>
@@ -642,12 +657,12 @@ img.emoji {
 				<li>
 			<div class="heading-separator">Featured</div>
 			<div class="sidebar-post-featured">
-				<a class="media post-sidebar" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=robotic-toy-cars-teach-kids-programming" rel="nofollow" title="These smart toy cars teach kids programming and robotics, and schools are snapping them up"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/cannybots-100x100.jpeg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">These smart toy cars teach kids programming and robotics, and schools are snapping them up</div><div class="post-subheading">By Malavika Velayanikal</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/hands-free-virtual-reality-male-pleasure-toy/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=hands-free-virtual-reality-male-pleasure-toy" rel="nofollow" title="Check out this hands-free virtual reality blowjob machine"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/eja_feat_2-100x100.png"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">Check out this hands-free virtual reality blowjob machine</div><div class="post-subheading">By J.T. Quigley</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/how-a-big-data-partner-is-helping-inmobi-win-china/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=how-a-big-data-partner-is-helping-inmobi-win-china" rel="nofollow" title="How a big data partner is helping India&#8217;s InMobi win China"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/China-phone-users-data-featured-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">How a big data partner is helping India&#8217;s InMobi win China</div><div class="post-subheading">By Malavika Velayanikal</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/chinas-didi-invests-indias-ola-completes-antiuber-circle/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=chinas-didi-invests-indias-ola-completes-antiuber-circle" rel="nofollow" title="China&#8217;s Didi Kuaidi invests in India&#8217;s Ola to boost anti-Uber alliance"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/05/didi-dache-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">China&#8217;s Didi Kuaidi invests in India&#8217;s Ola to boost anti-Uber alliance</div><div class="post-subheading">By Terence Lee</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/qualcomm-announces-150m-fund-for-startups-india/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=qualcomm-announces-150m-fund-for-startups-india" rel="nofollow" title="Indian PM scores in Silicon Valley: Qualcomm announces $150M fund for startups in India"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Modi-meets-Elon-Musk-at-Tesla-office-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">Indian PM scores in Silicon Valley: Qualcomm announces $150M fund for startups in India</div><div class="post-subheading">By Malavika Velayanikal</div></div></a>			</div>
+				<a class="media post-sidebar" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=robotic-toy-cars-teach-kids-programming" rel="nofollow" title="These smart toy cars teach kids programming and robotics, and schools are snapping them up"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/cannybots-100x100.jpeg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">These smart toy cars teach kids programming and robotics, and schools are snapping them up</div><div class="post-subheading">By Malavika Velayanikal</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/popular-online-shopping-platforms-in-indonesia/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=popular-online-shopping-platforms-in-indonesia" rel="nofollow" title="26 popular online shopping sites in Indonesia"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Jakarta_City_Skyline_part_2-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">26 popular online shopping sites in Indonesia</div><div class="post-subheading">By Leighton Cosseboom</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/hands-free-virtual-reality-male-pleasure-toy/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=hands-free-virtual-reality-male-pleasure-toy" rel="nofollow" title="Check out this hands-free virtual reality blowjob machine"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/eja_feat_2-100x100.png"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">Check out this hands-free virtual reality blowjob machine</div><div class="post-subheading">By J.T. Quigley</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/chinas-didi-invests-indias-ola-completes-antiuber-circle/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=chinas-didi-invests-indias-ola-completes-antiuber-circle" rel="nofollow" title="China&#8217;s Didi Kuaidi invests in India&#8217;s Ola to boost anti-Uber alliance"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/05/didi-dache-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">China&#8217;s Didi Kuaidi invests in India&#8217;s Ola to boost anti-Uber alliance</div><div class="post-subheading">By Terence Lee</div></div></a><a class="media post-sidebar" href="https://www.techinasia.com/qualcomm-announces-150m-fund-for-startups-india/?utm_source=sidebar-featured-posts&utm_medium=web&utm_campaign=qualcomm-announces-150m-fund-for-startups-india" rel="nofollow" title="Indian PM scores in Silicon Valley: Qualcomm announces $150M fund for startups in India"><div class="media-left post-image"><img class="img-lazy media-object wp-post-image sidebar-thumbnail" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://d1h69ey09xg1xv.cloudfront.net/wp-content/uploads/2015/09/Modi-meets-Elon-Musk-at-Tesla-office-100x100.jpg"/></div><div class="media-body post-heading-wrapper"><div class="post-heading">Indian PM scores in Silicon Valley: Qualcomm announces $150M fund for startups in India</div><div class="post-subheading">By Malavika Velayanikal</div></div></a>			</div>
 		</li>
 					<li>
 				<div class="heading-separator">Recent Comments</div>
 				<div class="box">
-					<ul class="list-unstyled recent-comments-list"><li><a class="recent-comment-item" href="https://www.techinasia.com/talk/tech-asia-ios-app/#comment-247867"><p class="comment-post-title">The Tech in Asia iOS app</p><p class="comment-content">Good leh!</p><p class="comment-meta"><span class="comment-author">Benjamin Eng</span> - 28m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/jack-ma-explains-worried-chinas-economy/#comment-247865"><p class="comment-post-title">Why Jack Ma isn't worried about China's slowing economy</p><p class="comment-content">His &quot;I'm positive, but I'm not stupid&quot; quote is a great way for people to live their lives.</p><p class="comment-meta"><span class="comment-author">Imran Khan</span> - 31m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/netflix-missed-china-window/#comment-247863"><p class="comment-post-title">Netflix has already missed its China window</p><p class="comment-content">Poor Netflix:(</p><p class="comment-meta"><span class="comment-author">g Yu</span> - 39m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/talk/7-good-reasons-angel-investor/#comment-247862"><p class="comment-post-title">7 good reasons to be an angel Investor</p><p class="comment-content">LoL. Somethings are better experienced than explained! But I agree with you it could be a different experience for different types of investors. What ...</p><p class="comment-meta"><span class="comment-author">Rajesh Acharya</span> - 50m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/exhibit-startup-lessons-tech-asia-tokyo-2015/#comment-247861"><p class="comment-post-title">How to exhibit your startup: lessons from Tech in Asia Tokyo 2015</p><p class="comment-content">Glad it helped! Nothing off the top of my head... Will help to keep a lookout at the upcoming TIA Jakarta - unless you'll be there yourself? ;)</p><p class="comment-meta"><span class="comment-author">Louisa Chiew</span> - 57m ago</p></a></li></ul>				</div>
+					<ul class="list-unstyled recent-comments-list"><li><a class="recent-comment-item" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/#comment-247905"><p class="comment-post-title">These smart toy cars teach kids programming and robotics, and schools are snapping them up</p><p class="comment-content">We've had more than 200 backers in 24 hours Helen and Tim - and we did lots of research in advance regarding th e price point. We want as many people ...</p><p class="comment-meta"><span class="comment-author">Liz Weston - Cannybots</span> - 3m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/#comment-247904"><p class="comment-post-title">These smart toy cars teach kids programming and robotics, and schools are snapping them up</p><p class="comment-content">That's great feedback Sumit. We really wanted to be as accessible as possible and the price point reflects that. By going smaller, we've been able to ...</p><p class="comment-meta"><span class="comment-author">Liz Weston - Cannybots</span> - 5m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/#comment-247903"><p class="comment-post-title">These smart toy cars teach kids programming and robotics, and schools are snapping them up</p><p class="comment-content">Totally Huiyi - they'll also remember that you were a cool Aunt who made it happy for them!!</p><p class="comment-meta"><span class="comment-author">Liz Weston - Cannybots</span> - 6m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/#comment-247902"><p class="comment-post-title">These smart toy cars teach kids programming and robotics, and schools are snapping them up</p><p class="comment-content">Exactly Daini M - tech is going to be here for the entirety of our children's lives, so we need to find ways to leverage it and help them benefit from...</p><p class="comment-meta"><span class="comment-author">Liz Weston - Cannybots</span> - 6m ago</p></a></li><li><a class="recent-comment-item" href="https://www.techinasia.com/robotic-toy-cars-teach-kids-programming/#comment-247901"><p class="comment-post-title">These smart toy cars teach kids programming and robotics, and schools are snapping them up</p><p class="comment-content">Thank you Amit, I'll tell the team - yesterday we were powered by coffee so today we're looking for something else to sustain us - the support is amaz...</p><p class="comment-meta"><span class="comment-author">Liz Weston - Cannybots</span> - 8m ago</p></a></li></ul>				</div>
 			</li>
 			</ul>
 </div>				</div>
@@ -725,8 +740,8 @@ var tiaCommentL10n = {"ajax_url":"https:\/\/www.techinasia.com\/core\/wp-admin\/
 <script type='text/javascript' src='https://stats.wp.com/e-201540.js' async defer></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.7.2',blog:'75860973',post:'251726',tz:'8',srv:'www.techinasia.com'} ]);
-	_stq.push([ 'clickTrackerInit', '75860973', '251726' ]);
+	_stq.push([ 'view', {v:'ext',j:'1:3.7.2',blog:'75860973',post:'272798',tz:'8',srv:'www.techinasia.com'} ]);
+	_stq.push([ 'clickTrackerInit', '75860973', '272798' ]);
 </script>
 		<script type="text/javascript">
 		// Lazy-loading
@@ -821,7 +836,7 @@ var tiaCommentL10n = {"ajax_url":"https:\/\/www.techinasia.com\/core\/wp-admin\/
 				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 			ga('create', 'UA-28556084-1', 'auto');
-													ga('set', 'dimension2', 'Nikita Peer');
+													ga('set', 'dimension2', 'Choon Yan Tan');
 						ga('require', 'linkid', 'linkid.js');
 			ga('send', 'pageview');
 
@@ -873,7 +888,7 @@ var tiaCommentL10n = {"ajax_url":"https:\/\/www.techinasia.com\/core\/wp-admin\/
 					}
 				}
 			});
-			mixpanel_track('View', {"id":251726,"type":"post","published_date":"2015-06-10T15:09:49+00:00","title":"Voonik turns shoppers into fashionistas, and it just raised funding","author":"Nikita Peer","permalink":"https:\/\/www.techinasia.com\/india-voonik-personal-shopping-app-funding\/","categories":[{"term_id":3886,"name":"Ecommerce","slug":"e-commerce-social-commerce","term_group":0,"term_taxonomy_id":3902,"taxonomy":"category","description":"Ecommerce is already big in Asia, and it only has room to grow. As local startups and global players tap into new opportunities, each country also creates its own ecommerce leaders. On top of these sites, social media is even becoming a new avenue for consumers to shop. While many countries still struggle to find better payment options and access to the internet, it's worth studying how new ecommerce players and the evolving demand of consumers shapes how Asians shop.","parent":0,"count":2044,"filter":"raw","cat_ID":3886,"category_count":2044,"category_description":"Ecommerce is already big in Asia, and it only has room to grow. As local startups and global players tap into new opportunities, each country also creates its own ecommerce leaders. On top of these sites, social media is even becoming a new avenue for consumers to shop. While many countries still struggle to find better payment options and access to the internet, it's worth studying how new ecommerce players and the evolving demand of consumers shapes how Asians shop.","cat_name":"Ecommerce","category_nicename":"e-commerce-social-commerce","category_parent":0},{"term_id":15450,"name":"Investments","slug":"investments","term_group":0,"term_taxonomy_id":23044,"taxonomy":"category","description":"In the world of technology, funding gives startups the needed fuel and vitamins to grow faster. At Tech in Asia, we give you the most complete startup funding coverage in Asia.","parent":0,"count":1862,"filter":"raw","cat_ID":15450,"category_count":1862,"category_description":"In the world of technology, funding gives startups the needed fuel and vitamins to grow faster. At Tech in Asia, we give you the most complete startup funding coverage in Asia.","cat_name":"Investments","category_nicename":"investments","category_parent":0},{"term_id":39658,"name":"News","slug":"news","term_group":0,"term_taxonomy_id":23040,"taxonomy":"category","description":"Be the first to know the latest developments and news in the technology industry. Over here, we keep track of the big moves from both big tech companies and the startup world.","parent":0,"count":2976,"filter":"raw","cat_ID":39658,"category_count":2976,"category_description":"Be the first to know the latest developments and news in the technology industry. Over here, we keep track of the big moves from both big tech companies and the startup world.","cat_name":"News","category_nicename":"news","category_parent":0},{"term_id":39696,"name":"Startups","slug":"startups","term_group":0,"term_taxonomy_id":656,"taxonomy":"category","description":"Startups are Tech in Asia's bread and butter. As Asia's startup ecosystems grow, we'll be here to document both their successes and failures. From seed-stage bootstrappers to multimillion-dollar exits, every startup worth its salt deserves a chance to be heard.\t","parent":0,"count":6377,"filter":"raw","cat_ID":39696,"category_count":6377,"category_description":"Startups are Tech in Asia's bread and butter. As Asia's startup ecosystems grow, we'll be here to document both their successes and failures. From seed-stage bootstrappers to multimillion-dollar exits, every startup worth its salt deserves a chance to be heard.\t","cat_name":"Startups","category_nicename":"startups","category_parent":0}],"tags":[{"term_id":1021,"name":"ecommerce","slug":"ecommerce","term_group":0,"term_taxonomy_id":1036,"taxonomy":"post_tag","description":"","parent":0,"count":1711,"filter":"raw"},{"term_id":3800,"name":"fashion","slug":"fashion","term_group":0,"term_taxonomy_id":3816,"taxonomy":"post_tag","description":"","parent":0,"count":159,"filter":"raw"},{"term_id":908,"name":"funding","slug":"funding","term_group":0,"term_taxonomy_id":923,"taxonomy":"post_tag","description":"","parent":0,"count":1188,"filter":"raw"},{"term_id":38762,"name":"India","slug":"india","term_group":0,"term_taxonomy_id":141,"taxonomy":"post_tag","description":"India, officially the Republic of India is a country in South Asia. The Indian economy is the world's seventh-largest by nominal GDP and third-largest by purchasing power parity (PPP). Following market-based economic reforms in 1991, India became one of the fastest-growing major economies; it is considered a newly industrialised country.","parent":0,"count":1828,"filter":"raw"},{"term_id":1985,"name":"investment","slug":"investment","term_group":0,"term_taxonomy_id":2000,"taxonomy":"post_tag","description":"","parent":0,"count":361,"filter":"raw"},{"term_id":38042,"name":"Seedfund","slug":"seedfund","term_group":0,"term_taxonomy_id":44437,"taxonomy":"post_tag","description":"","parent":0,"count":1,"filter":"raw"},{"term_id":1877,"name":"Sequoia Capital","slug":"sequoia-capital","term_group":0,"term_taxonomy_id":1892,"taxonomy":"post_tag","description":"","parent":0,"count":89,"filter":"raw"},{"term_id":634,"name":"Startups","slug":"start-up","term_group":0,"term_taxonomy_id":646,"taxonomy":"post_tag","description":"","parent":0,"count":1092,"filter":"raw"},{"term_id":3712,"name":"startups in india","slug":"startups-in-india","term_group":0,"term_taxonomy_id":3727,"taxonomy":"post_tag","description":"","parent":0,"count":763,"filter":"raw"},{"term_id":38041,"name":"Voonik","slug":"voonik","term_group":0,"term_taxonomy_id":44436,"taxonomy":"post_tag","description":"","parent":0,"count":2,"filter":"raw"}]});
+			mixpanel_track('View', {"id":272798,"type":"talk","published_date":"2015-09-30T14:00:20+00:00","title":"5 Tips for founders from two Asian VC&#8217;s","author":"Choon Yan Tan","permalink":"https:\/\/www.techinasia.com\/talk\/5-tips-founders-asian-vcs\/","categories":[{"term_id":15450,"name":"Investments","slug":"investments","term_group":0,"term_taxonomy_id":23044,"taxonomy":"category","description":"In the world of technology, funding gives startups the needed fuel and vitamins to grow faster. At Tech in Asia, we give you the most complete startup funding coverage in Asia.","parent":0,"count":1862,"filter":"raw","cat_ID":15450,"category_count":1862,"category_description":"In the world of technology, funding gives startups the needed fuel and vitamins to grow faster. At Tech in Asia, we give you the most complete startup funding coverage in Asia.","cat_name":"Investments","category_nicename":"investments","category_parent":0},{"term_id":40153,"name":"Tips","slug":"tips","term_group":0,"term_taxonomy_id":46362,"taxonomy":"category","description":"Building startups is hard. It's a path paved by blood, sweat, and tears. But Asia's ecosystem is growing. And with that growth comes a whole generation of people with insight into how to build a company. So Tech In Asia brings to you an ongoing series of tips and tricks to win your market and build the next big thing.","parent":0,"count":40,"filter":"raw","cat_ID":40153,"category_count":40,"category_description":"Building startups is hard. It's a path paved by blood, sweat, and tears. But Asia's ecosystem is growing. And with that growth comes a whole generation of people with insight into how to build a company. So Tech In Asia brings to you an ongoing series of tips and tricks to win your market and build the next big thing.","cat_name":"Tips","category_nicename":"tips","category_parent":0}],"tags":[{"term_id":1020,"name":"East Ventures","slug":"east-ventures","term_group":0,"term_taxonomy_id":1035,"taxonomy":"post_tag","description":"","parent":0,"count":121,"filter":"raw"},{"term_id":6683,"name":"Golden Gate Ventures","slug":"golden-gate-ventures","term_group":0,"term_taxonomy_id":6699,"taxonomy":"post_tag","description":"","parent":0,"count":37,"filter":"raw"},{"term_id":561,"name":"tips","slug":"tips","term_group":0,"term_taxonomy_id":572,"taxonomy":"post_tag","description":"","parent":0,"count":40,"filter":"raw"},{"term_id":1067,"name":"venture capital","slug":"venture-capital","term_group":0,"term_taxonomy_id":1082,"taxonomy":"post_tag","description":"","parent":0,"count":196,"filter":"raw"}]});
 		});
 	</script>
 		<script type="application/ld+json">

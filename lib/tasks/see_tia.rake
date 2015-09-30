@@ -3,7 +3,10 @@
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
-require 'cgi'
+require 'cgi' 
+ 
+require 'net/http'
+require 'uri'
 
 
 # Post.find_each {|x| x.update(:source => "TiA") } 
@@ -62,6 +65,45 @@ task :parse_tia_excerpt_for_url => :environment do
    
 end
 
+task :extract_tia_content_to_file => :environment do
+    # counter = 1
+    # Post.where(:source => "TiA").find_each do |post|
+    #     puts "counter: #{counter}" if counter%100 == 0
+    #     open("result/#{post.id}.html.txt", "wb") do |file|
+    #       open( post.page_url ) do |uri|
+    #          file.write(uri.read)
+    #       end
+    #     end
+    #     counter = counter + 1 
+    # end
+    
+    require 'rubygems'
+require 'nokogiri'
+require 'open-uri'
+require 'cgi' 
+ 
+require 'net/http'
+require 'uri'
+
+
+     
+
+
+    post = Post.where(:source => "TiA").first  
+        
+    uri = URI.parse(post.page_url)
+    
+    # Shortcut
+    response = Net::HTTP.get_response(uri)
+    
+  
+    
+    page = Nokogiri::HTML( response.body )   
+    page.css("article")
+    
+    
+end
+
 task :extract_tia_content => :environment do
  
     
@@ -72,12 +114,32 @@ task :extract_tia_content => :environment do
         begin
             puts "current_page: #{page_counter}" if page_counter%10 == 0 
              
-            uri = ''
-            open( post.page_url) {|f|
-              uri = f.read
-            }
-            page = Nokogiri::HTML( uri )  
+            # uri = ''
+            # open( post.page_url) {|f|
+            #   uri = f.read
+            # }
             
+            # content = eat( post.page_url)
+            # page = Nokogiri::HTML( content )  
+            
+            # file = open( post.page_url )
+            # contents = file.read
+            
+            # page = Nokogiri::HTML( contents )  
+            # # puts contents
+            
+            # # page.css("article")
+            post = Post.where(:source => "TiA").first  
+                
+            uri = URI.parse(post.page_url)
+            
+            # Shortcut
+            response = Net::HTTP.get_response(uri)
+            
+          
+            
+            page = Nokogiri::HTML( response.body )   
+            page.css("article")
             
             post.update( :page_xml => page.css("article").to_xml)
             
