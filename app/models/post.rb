@@ -5,6 +5,7 @@ require 'open-uri'
 require 'cgi'
 
 
+#  ActionView::Base.full_sanitizer.sanitize(string)  << to clean up html tag
 class Post < ActiveRecord::Base
     
     def extract_tia_content

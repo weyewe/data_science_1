@@ -64,45 +64,7 @@ task :parse_tia_excerpt_for_url => :environment do
   end
    
 end
-
-task :extract_tia_content_to_file => :environment do
-    # counter = 1
-    # Post.where(:source => "TiA").find_each do |post|
-    #     puts "counter: #{counter}" if counter%100 == 0
-    #     open("result/#{post.id}.html.txt", "wb") do |file|
-    #       open( post.page_url ) do |uri|
-    #          file.write(uri.read)
-    #       end
-    #     end
-    #     counter = counter + 1 
-    # end
-    
-    require 'rubygems'
-require 'nokogiri'
-require 'open-uri'
-require 'cgi' 
  
-require 'net/http'
-require 'uri'
-
-
-     
-
-
-    post = Post.where(:source => "TiA").first  
-        
-    uri = URI.parse(post.page_url)
-    
-    # Shortcut
-    response = Net::HTTP.get_response(uri)
-    
-  
-    
-    page = Nokogiri::HTML( response.body )   
-    page.css("article")
-    
-    
-end
 
 task :extract_tia_content => :environment do
  
@@ -110,7 +72,7 @@ task :extract_tia_content => :environment do
 
     
     page_counter  = 1 
-    Post.where(:source => "TiA").find_each do |post|
+    Post.where(:source => "TiA").order("id DESC").find_each do |post|
         begin
             puts "current_page: #{page_counter}" if page_counter%10 == 0 
              
@@ -129,7 +91,7 @@ task :extract_tia_content => :environment do
             # # puts contents
             
             # # page.css("article")
-            post = Post.where(:source => "TiA").first  
+            # post = Post.where(:source => "TiA").first  
                 
             uri = URI.parse(post.page_url)
             
@@ -141,7 +103,13 @@ task :extract_tia_content => :environment do
             page = Nokogiri::HTML( response.body )   
             page.css("article")
             
-            post.update( :page_xml => page.css("article").to_xml)
+            # post.update( :page_xml => page.css("article").to_xml)
+            
+            post.page_xml = page.css("article").to_xml
+            post.save 
+            # if post.save
+            #     puts "success.. id = #{post.id}"
+            # end
             
             page_counter = page_counter  + 1 
             
