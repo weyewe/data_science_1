@@ -8,7 +8,7 @@ require 'cgi'
  
 require 'net/http'
 require 'uri'
-
+require 'csv'
 
 task :extract_q_headline => :environment do
  
@@ -63,3 +63,24 @@ task :parse_qerja_company_name => :environment do
   end
    
 end
+
+
+
+task :dump_qerja_company_name => :environment do
+
+  
+    
+    CSV.open("qerja_company.csv", "w") do |csv|
+        Employer.find_each do |employer|
+            csv << [ employer.name ]
+        end
+    end
+
+
+   
+end
+
+
+
+
+
