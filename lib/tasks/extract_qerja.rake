@@ -81,6 +81,65 @@ task :dump_qerja_company_name => :environment do
 end
 
 
+task :extract_qerja_job_title => :environment do
+    require 'rubygems'
+    require 'mechanize' 
+    
+    mechanize = Mechanize.new { |agent|
+      # Flickr refreshes after login
+      agent.follow_meta_refresh = true
+    }
+    
+    
+    page = mechanize.get('http://www.qerja.com/professional/masuk')
+    
+    form = page.forms[1]
+    
+    # loginForm
+    
+    
+    form['q'] = 'passport'
+    
+    page = form.submit
+    
+    page.search('#top-results h3').each do |h3|
+      puts h3.text.strip
+    end
+
+end
+
+
+
+task :some_new_code_for_task_DATA_7 => :environment do
+    require 'rubygems'
+    require 'mechanize' 
+    
+    mechanize = Mechanize.new { |agent|
+      # Flickr refreshes after login
+      agent.follow_meta_refresh = true
+    }
+    
+    
+    page = mechanize.get('http://www.qerja.com/professional/masuk')
+    
+    form = page.forms[1]
+    
+    # loginForm
+    
+    
+    form['q'] = 'passport'
+    
+    page = form.submit
+    
+    page.search('#top-results h3').each do |h3|
+      puts h3.text.strip
+    end
+
+end
+
+
+
+
 
 
 
