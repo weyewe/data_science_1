@@ -17,6 +17,8 @@ gem 'squeel', :git => "git://github.com/activerecord-hackery/squeel.git"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'mongo'
+gem 'bson_ext'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks

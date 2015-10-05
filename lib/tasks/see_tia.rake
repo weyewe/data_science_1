@@ -72,7 +72,12 @@ task :extract_tia_content => :environment do
 
     
     page_counter  = 1 
-    Post.where(:source => "TiA").order("id DESC").find_each do |post|
+    Post.where{ (source.eq "TiA") & 
+    (
+        (page_xml.eq nil) | 
+        (page_xml.eq "")
+    )
+     }.order("id DESC").find_each do |post|
         begin
             puts "current_page: #{page_counter}" if page_counter%10 == 0 
              

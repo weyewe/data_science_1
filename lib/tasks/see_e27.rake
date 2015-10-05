@@ -4,6 +4,14 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'cgi'
+require 'csv'
+
+
+=begin
+url = "http://e27.co/good-to-see-more-focus-on-tech-than-fin-in-fin-tech-citrus-founder-20150513/"
+page = Nokogiri::HTML(open(  url     ))  
+=end 
+
 
 task :extract_e27_headline => :environment do
  
@@ -126,3 +134,28 @@ task :extract_e27_content => :environment do
       
         
 end
+
+
+task :print_e27_csv => :environment do
+    
+    CSV.open('e27_delay.csv', 'w') do |csv_object|
+        
+      Post.where{ (source.eq "e27") & (page_xml.eq nil)}.order("id DESC").find_each  do |post|
+        csv_object << [ post.id , post.page_url]
+      end
+    end
+end
+
+
+# website block the one with no header... let's focus on TiA, then copypaste
+task :call_wget_e27 => :environment do
+    #  puts "Gonna execute casper"
+    Post.where{ (source.eq "e27") & (page_xml.eq nil)}.order("id DESC").find_each do |post|
+        exec(" wget #{post.page_url} -O /home/ubuntu/workspace/e27/#{post.id}")
+    end
+    # result = exec(" wget #{post.page_url} -O /home/ubuntu/workspace/e27/#{post.id}")
+    # puts result
+end
+
+# wget google.com -O foo.html
+# wget http://e27.co/good-to-see-more-focus-on-tech-than-fin-in-fin-tech-citrus-founder-20150513/ -O /home/ubuntu/workspace/e27/34324.txt

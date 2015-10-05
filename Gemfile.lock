@@ -48,6 +48,8 @@ GEM
     arel (6.0.0)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bson (3.2.4)
+    bson_ext (1.5.1)
     builder (3.2.2)
     byebug (5.0.0)
       columnize (= 0.9.0)
@@ -88,6 +90,8 @@ GEM
     mime-types (2.6.1)
     mini_portile (0.6.2)
     minitest (5.7.0)
+    mongo (2.1.1)
+      bson (~> 3.0)
     multi_json (1.11.1)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
@@ -160,12 +164,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bson_ext
   byebug
   coffee-rails (~> 4.1.0)
   delayed_job_active_record
   eat
   jbuilder (~> 2.0)
   jquery-rails
+  mongo
   nokogiri
   pg
   rails (= 4.2.1)
